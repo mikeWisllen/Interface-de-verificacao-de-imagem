@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{D82C56D6-B2CD-F611-9E31-04638F7EC30E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessorAPI", "api\ImageProcessorAPI\ImageProcessorAPI.csproj", "{F00CB028-F05B-2084-2072-8EE3DF204AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00CB028-F05B-2084-2072-8EE3DF204AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00CB028-F05B-2084-2072-8EE3DF204AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00CB028-F05B-2084-2072-8EE3DF204AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00CB028-F05B-2084-2072-8EE3DF204AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F00CB028-F05B-2084-2072-8EE3DF204AFA} = {D82C56D6-B2CD-F611-9E31-04638F7EC30E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD26073C-D322-4A35-A69A-E711BB5B97C4}
+	EndGlobalSection
+EndGlobal
